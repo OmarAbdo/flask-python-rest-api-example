@@ -1,0 +1,9 @@
+these links might be helpful to get started with python and db2 
+
+https://github.com/ibmdb/python-ibmdb
+https://blog.4loeser.net/2018/10/db2-nodejs-and-python-drivers-and-orm.html
+
+IBM DB2 with SqlAlchamy
+https://docs.sqlalchemy.org/en/13/dialects/index.html
+https://github.com/ibmdb/python-ibmdb
+https://www.sqlalchemy.org/features.html
